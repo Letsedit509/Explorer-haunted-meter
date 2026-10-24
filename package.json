@@ -1,0 +1,16 @@
+{
+  "name": "explorers-haunted-meter",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@fontsource/barlow-condensed": "^5.3.0",
+    "@fontsource/dm-sans": "^5.3.0",
+    "@playwright/test": "^1.56.0"
+  }
+}
